@@ -13,4 +13,4 @@
 ### About Me!
 * <a href="https://blog.naver.com/wozuihen1">개발블로그</a> <br>
 * <a href="https://www.youtube.com/channel/UCT9noxlVEcLkvLX-A_UAodg/featured">개발유튜브</a>
-* <a href="https://hyon-il.notion.site/41d88c408a0f45f4b978c5af73d68a2c">Notion 이력서</a>
+* <a href="* https://hyon-il.notion.site/41d88c408a0f45f4b978c5af73d68a2c">Notion 이력서</a>
